@@ -17,6 +17,11 @@ h1 {
   left: 120px;
   top: 0;
   line-height: 80px;
+  background-image: url(images/圖片4.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 210px;
+  text-indent: -9999px;
 }
 header ul {
   position: absolute;
